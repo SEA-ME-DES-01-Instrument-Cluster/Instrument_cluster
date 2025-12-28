@@ -1,6 +1,12 @@
 # Instrument_cluster
 This project involves the implementation of an instrument cluster as the second DES (Distributed Embedded Systems) project in the SEA:ME curriculum.
 
+
+
+https://github.com/user-attachments/assets/722a388a-220e-4ac5-8ad0-b0e8d6a63e9b
+
+
+
 ## Overview
 An instrument cluster, also known as a dashboard cluster or gauge cluster, is a critical component of a vehicle’s dashboard. It provides the driver with essential information about the vehicle’s status and performance through various gauges, indicators, and warning lights. Here, we implement an instrument cluster showing real-time speed data on a screen with GUI.
 
